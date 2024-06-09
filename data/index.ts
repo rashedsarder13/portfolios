@@ -195,7 +195,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Lead Software Developer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
@@ -206,13 +206,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url:"https://github.com/rashedsarder13"
   },
   {
     id: 2,
     img: "/twit.svg",
+    url:"https://twitter.com/rashedsarder13"
   },
   {
     id: 3,
     img: "/link.svg",
+    url:"https://linkedin.com/in/rashed-sarder13"
   },
 ];
